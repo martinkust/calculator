@@ -1,2 +1,6 @@
 out/
 *.class
+target/
+*.iml
+*.ipr
+.idea
